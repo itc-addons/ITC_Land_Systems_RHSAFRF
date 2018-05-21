@@ -1,5 +1,5 @@
 /// Name of your mod
-name = "ITC Land Systems - RHS USAF Compat.";
+name = "ITC Land Systems - RHS AFRF Compat.";
 /// Picture displayed from the expansions menu/ Optimal size is 2048x1024, other sizes work too
 picture = "itc-combo.paa";
 /// Display next to the item added by the mod
