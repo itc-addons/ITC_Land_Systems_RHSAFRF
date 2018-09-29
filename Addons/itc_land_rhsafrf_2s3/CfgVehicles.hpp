@@ -41,6 +41,7 @@ class CfgVehicles {
 	};
 	
 	class itc_land_rhsafrf_2s3_tv: rhs_2s3_tv {
+		scopeCurator = 2;
 		displayname = "2S3 mod. 0 Akatsiya 2";
         class ACE_SelfActions: ACE_SelfActions {
             class ITC_Land_SPHammohandler {
