@@ -69,14 +69,12 @@ class CfgVehicles {
 				turretInfoType = "ITC_Land_RscAltGunnerSightSPH";
 				weapons[] = {"itc_land_rhs_weap_2a33"};
 				magazines[] = {
-					mag_24("itc_land_g152hex"),
-					mag_4("itc_land_g152hex"),
-					mag_5("itc_land_g152smo"),
-					mag_5("itc_land_g152ill"),
-					mag_2("itc_land_g152icm"),
-					"itc_land_g152map",					
-					"itc_land_g152mat",										
-					mag_2("itc_land_g152lgm")
+					mag_24("itc_land_2a33hex"),
+					mag_4("itc_land_2a33hex"),
+					mag_5("itc_land_2a33smo"),
+					mag_5("itc_land_2a33ill"),
+					mag_3("itc_land_2a33icm"),									
+					mag_3("itc_land_2a33lgm")
 				};
 				lockWhenVehicleSpeed = 1;
 				maxHorizontalRotSpeed = "((360/30)/45)";

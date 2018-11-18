@@ -8,8 +8,8 @@
 		authors[] = {"RHS","ToadBall","Yax"};
 	};
 };
-
 #include "CfgITCLandBalistics.hpp"
 #include "CfgXEH.hpp"
+#include "CfgMagazines.hpp"
 #include "CfgWeapons.hpp"
 #include "CfgVehicles.hpp"
