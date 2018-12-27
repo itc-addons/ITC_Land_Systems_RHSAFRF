@@ -35,7 +35,7 @@ class CfgVehicles {
 	class rhs_2s3_tv: rhs_2s3tank_base {
         class ACE_SelfActions: ACE_SelfActions {};		
 		class Turrets: Turrets {
-				class MainTurret: MainTurret {};
+			class MainTurret: MainTurret {};
 		};
 		class AnimationSources: AnimationSources {};		
 	};
@@ -60,9 +60,6 @@ class CfgVehicles {
 		class itc_land {
 			tabletInterfaces[] = {"spg"};
 			mountedTablet = "itc_land_tablet_spg";
-			class fcs {
-				tableList = "g_152";
-			};
 		};
 		class Turrets: Turrets {
 			class MainTurret: MainTurret {
