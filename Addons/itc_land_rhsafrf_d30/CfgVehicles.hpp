@@ -25,6 +25,7 @@ class CfgVehicles {
 	class itc_land_rhsafrf_d30_msv: rhs_D30_msv {
 		displayname = "D30 mod. 0";
 		scopeCurator = 2;
+		artilleryScanner = 0;		
 		class Turrets: Turrets {
 			class MainTurret: MainTurret {
 				turretInfoType = "ITC_Land_RscGunnerSightBasic";
@@ -39,6 +40,7 @@ class CfgVehicles {
 	class itc_land_rhsafrf_d30_vdv: rhs_D30_vdv {
 		displayname = "D30 mod. 0";
 		scopeCurator = 2;
+		artilleryScanner = 0;
 		class Turrets: Turrets {
 			class MainTurret: MainTurret {
 				turretInfoType = "ITC_Land_RscGunnerSightBasic";
@@ -53,6 +55,7 @@ class CfgVehicles {
 	class itc_land_rhsafrf_d30_vmf: rhs_D30_vmf {
 		displayname = "D30 mod. 0";
 		scopeCurator = 2;
+		artilleryScanner = 0;
 		class Turrets: Turrets {
 			class MainTurret: MainTurret {
 				turretInfoType = "ITC_Land_RscGunnerSightBasic";
@@ -67,6 +70,7 @@ class CfgVehicles {
 	class itc_land_rhsafrf_d30_ins: rhs_D30_ins {
 		displayname = "D30 mod. 0";
 		scopeCurator = 2;
+		artilleryScanner = 0;
 		class Turrets: Turrets {
 			class MainTurret: MainTurret {
 				turretInfoType = "ITC_Land_RscGunnerSightBasic";
