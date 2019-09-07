@@ -1,6 +1,6 @@
 // ARTY+ACE Module ballistics table.
 // Magazine: rhs_mag_3vo18_10
-// Ammo: rhs_ammo_3vo18 0.35 0.7 1
+// Ammo: rhs_ammo_3vo18
 // AirFriction: 0
 // MuzzleVelocity: 73.85
 
