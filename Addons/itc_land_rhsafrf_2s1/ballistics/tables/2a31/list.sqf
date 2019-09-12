@@ -1,0 +1,15 @@
+[
+  ["1","1","2","2","3","3","4","4","5","5"],
+  [
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch1_la.sqf",
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch1_ha.sqf",
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch2_la.sqf",
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch2_ha.sqf",
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch3_la.sqf",
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch3_ha.sqf",
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch4_la.sqf",
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch4_ha.sqf",
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch5_la.sqf",
+    "itc_land_rhsafrf_2s1\ballistics\tables\2a31\2a31_ch5_ha.sqf"
+  ]
+]
