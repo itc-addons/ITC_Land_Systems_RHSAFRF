@@ -51,14 +51,14 @@ class CfgVehicles {
             };
 			class ITC_Land_CommanderTablet {
 				displayName = "Open Mounted Tablet";
-				icon = "\itc_land_tablet\UI\arty-icon.paa";
+				icon = "\itc_land_tablet\UI\tableticon256.paa";
 				condition = "([_target] call itc_land_tablet_fnc_vehicleHasTablet) && (( commander _target ) == ACE_Player)";
 				statement = "[_target] call itc_land_tablet_fnc_openVehicleTablet";
 			};
 		};
 		artilleryScanner = 0;
 		class itc_land {
-  		  loaderType = 1; // semi automatic			
+  		  loaderType = 1; // semi automatic
 			tabletInterfaces[] = {"spg"};
 			mountedTablet = "itc_land_tablet_spg";
 		};

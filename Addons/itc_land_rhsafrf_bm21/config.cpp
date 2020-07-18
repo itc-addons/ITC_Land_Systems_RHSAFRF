@@ -1,5 +1,5 @@
  class CfgPatches {
-	class itc_land_rhsafrf_2s3	{
+	class itc_land_rhsafrf_bm21	{
 		units[] = {"itc_land_rhsafrf_2s3_tv" };
 		weapons[] = {};
 		requiredVersion = 1.8;
@@ -9,6 +9,7 @@
 	};
 };
 #include "CfgITCLandBalistics.hpp"
+#include "CfgXEH.hpp"
 #include "CfgMagazines.hpp"
 #include "CfgWeapons.hpp"
 #include "CfgVehicles.hpp"

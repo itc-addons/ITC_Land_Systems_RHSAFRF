@@ -7,19 +7,22 @@ class CfgWeapons {
 		autoReload = 0;
 		modes[] = {"Single"};
 		reloadTime = 1;
-		magazineReloadTime = 6;	
+		magazineReloadTime = 6;
 		#include "CfgWeapons_howitzers_magazines2A33.hpp"
 		class Single: Single1 {
 			displayName = "";
 			artilleryCharge = 1;
-			reloadTime = 6;			
+			reloadTime = 6;
 		};
 		class EventHandlers {
 				class itc_land_veh_weapons {
 						fired = "_this call itc_land_veh_weapons_fnc_fired;";
 				};
+				class itc_land_sphammohandler {
+						fired = "_this call itc_land_SPHammoHandler_fnc_firedEH;";
+				};				
 		};
 	};
-		
+
 
 };

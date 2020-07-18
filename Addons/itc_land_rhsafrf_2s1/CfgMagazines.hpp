@@ -1,6 +1,6 @@
 class CfgMagazines {
-	class itc_land_g152hex;
-	class itc_land_2a31hex: itc_land_g152hex {
+	class itc_land_g122hex;
+	class itc_land_2a31hex: itc_land_g122hex {
 		author = "Toadball";
 		displayName = "3OF56 HE";
 		displayNameShort = "122mm HE";
@@ -13,8 +13,8 @@ class CfgMagazines {
 	class itc_land_2a31hex_chg4: itc_land_2a31hex { initSpeed = 320; itc_land_CountInAH = 0;  };
 	class itc_land_2a31hex_chg5: itc_land_2a31hex { initSpeed = 400; itc_land_CountInAH = 0;  };
 
-	class itc_land_g152smo;
-	class itc_land_2a31smo: itc_land_g152smo {
+	class itc_land_g122smo;
+	class itc_land_2a31smo: itc_land_g122smo {
 		author = "Toadball";
 		displayName = "D-462 Smoke";
 		displayNameShort = "122mm SMOKE";
@@ -28,8 +28,8 @@ class CfgMagazines {
 	class itc_land_2a31smo_chg4: itc_land_2a31smo { initSpeed = 320; itc_land_CountInAH = 0;   };
 	class itc_land_2a31smo_chg5: itc_land_2a31smo { initSpeed = 400; itc_land_CountInAH = 0;   };
 
-	class itc_land_g152lgm;
-	class itc_land_2a31lgm: itc_land_g152lgm {
+	class itc_land_g122lgm;
+	class itc_land_2a31lgm: itc_land_g122lgm {
 		author = "Toadball";
 		displayName = "3OF69M LG";
 		displayNameShort = "122mm LGM";
@@ -42,8 +42,8 @@ class CfgMagazines {
 	class itc_land_2a31lgm_chg4: itc_land_2a31lgm { initSpeed = 320; itc_land_CountInAH = 0;  };
 	class itc_land_2a31lgm_chg5: itc_land_2a31lgm { initSpeed = 400; itc_land_CountInAH = 0;  };
 
-	class itc_land_g152ill;
-	class itc_land_2a31ill: itc_land_g152ill {
+	class itc_land_g122ill;
+	class itc_land_2a31ill: itc_land_g122ill {
 		author = "Toadball";
 		displayName = "S-463 Flare";
 		displayNameShort = "122mm ILLUM";
