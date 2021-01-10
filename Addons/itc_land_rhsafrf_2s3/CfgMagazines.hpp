@@ -7,7 +7,7 @@ class CfgMagazines {
 		itc_land_charge_format = "itc_land_2a33hex_chg%1";
 		itc_land_btabListFile = "itc_land_rhsafrf_2s3\ballistics\tables\2a33\list.sqf";
 	};
-	class itc_land_2a33hex_chg1: itc_land_2a33hex { initSpeed = 92; itc_land_CountInAH = 0;  };
+	class itc_land_2a33hex_chg1: itc_land_2a33hex { initSpeed = 85; itc_land_CountInAH = 0;  };
 	class itc_land_2a33hex_chg2: itc_land_2a33hex { initSpeed = 170; itc_land_CountInAH = 0;  };
 	class itc_land_2a33hex_chg3: itc_land_2a33hex { initSpeed = 255; itc_land_CountInAH = 0;  };
 	class itc_land_2a33hex_chg4: itc_land_2a33hex { initSpeed = 340; itc_land_CountInAH = 0;  };
@@ -42,7 +42,7 @@ class CfgMagazines {
 	class itc_land_2a33icm_chg3: itc_land_2a33icm { initSpeed = 255; itc_land_CountInAH = 0;   };
 	class itc_land_2a33icm_chg4: itc_land_2a33icm { initSpeed = 340; itc_land_CountInAH = 0;   };
 	class itc_land_2a33icm_chg5: itc_land_2a33icm { initSpeed = 425; itc_land_CountInAH = 0;   };
-	
+
 	class itc_land_g152lgm;
 	class itc_land_2a33lgm: itc_land_g152lgm {
 		author = "Toadball";
@@ -56,7 +56,7 @@ class CfgMagazines {
 	class itc_land_2a33lgm_chg3: itc_land_2a33lgm { initSpeed = 255; itc_land_CountInAH = 0;  };
 	class itc_land_2a33lgm_chg4: itc_land_2a33lgm { initSpeed = 340; itc_land_CountInAH = 0;  };
 	class itc_land_2a33lgm_chg5: itc_land_2a33lgm { initSpeed = 425; itc_land_CountInAH = 0;  };
-	
+
 	class itc_land_g152ill;
 	class itc_land_2a33ill: itc_land_g152ill {
 		author = "Toadball";
